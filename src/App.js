@@ -126,7 +126,7 @@ export default function SpecialistServices() {
       <div className="absolute top-0 right-0 w-[40rem] h-[40rem] bg-[#C5A059]/10 rounded-full blur-[100px] pointer-events-none -translate-y-1/2 translate-x-1/3"></div>
       <div className="absolute bottom-0 left-0 w-[40rem] h-[40rem] bg-[#114232] rounded-full blur-[120px] pointer-events-none translate-y-1/2 -translate-x-1/3"></div>
 
-      <div className="max-w-7xl mx-auto px-4 sm:px-6 relative z-10">
+      <div className="w-full px-4 sm:px-6 relative z-10">
         
         {/* --- INTRO TEXT --- */}
         {/* Tightened mobile margin (mb-10 instead of mb-16) */}
